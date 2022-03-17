@@ -1,5 +1,7 @@
 ## Welcome to My Page
 
+<link rel="shortcut icon" type="image/x-icon" href="whatever_folder_name/favicon.ico">
+
 You can use the [editor on GitHub](https://github.com/gmrosanes/gmrosanes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
