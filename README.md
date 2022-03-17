@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-<link rel="shortcut icon" type="image/x-icon" href="whatever_folder_name/favicon.ico">
+head: <link rel="shortcut icon" type="image/x-icon" href="whatever_folder_name/favicon.ico">
 
 You can use the [editor on GitHub](https://github.com/gmrosanes/gmrosanes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
