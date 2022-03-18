@@ -1,3 +1,8 @@
+![alt text](favicon.png)
+# Welcome to my page
+*GIAN MIGUEL ROSANES*
+
+
 ## Welcome to My Page
 
 <link rel="shortcut icon" type="image/x-icon" href="desktop/favicon.ico">
